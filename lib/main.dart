@@ -770,7 +770,7 @@ class CambioScope extends InheritedNotifier<CambioStore> {
 class GeminiMatchService {
   const GeminiMatchService();
 
-  static const _apiKey = '';
+  static const _apiKey = 'AQ.Ab8RN6K8TPnFtqauQ7edsxJ82bsk7p2kCADt1rLC8_QTBhiOcA';
   static const _model = String.fromEnvironment(
     'GEMINI_MODEL',
     defaultValue: 'gemini-3.6-flash',
